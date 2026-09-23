@@ -1,6 +1,6 @@
 :{$PORT}
 
-root * /Website/
+root * /app
 file_server
 encode gzip zstd
 
